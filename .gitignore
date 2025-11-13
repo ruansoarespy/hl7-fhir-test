@@ -1,0 +1,18 @@
+# Ambiente virtual Python
+venv/
+
+# JARs e bibliotecas locais
+*.jar
+
+# Arquivos de dados (opcional)
+data/*.csv
+data/*.json
+
+# Caches Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDEs / editor
+.vscode/
+.idea/
